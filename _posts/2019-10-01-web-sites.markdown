@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Web site design"
+categories: web-design 
+permalink: /web-sites/
+---
+### Introduction 
+
+I don't claim to be a web site designer at the graphic art level but I have 
+occasionally constructed web sites and spash pages for clients and for myself.
+
+Client work has been both from scratch and the redesign of existing sites.
+
+### Boats Ibiza
+
+Redesign of a legacy web site for the client, collating information scattered
+across the legacy site, making it logically accessible  via collation and 
+well-organised navigation.
+
+![Boats Ibiza splash page](/assets/images/web-sites/boats-ibiza.png)
+
+### Gradient Assessment
+
+A quick design of a web site to support marketing and sales for the
+[electronic assessment system](/mark-it-quickly).
+
+![Gradient Assessment splash page](/assets/images/web-sites/gradient.png)
+
+### Mark It Quickly splash page
+
+A splash page for the [electronic assessment system](/mark-it-quickly) itself.
+
+![Gradient Assessment splash page](/assets/images/web-sites/miqly-splash%20page.png)
+
+
+
+

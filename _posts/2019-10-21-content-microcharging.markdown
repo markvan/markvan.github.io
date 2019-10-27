@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cross-site content charging"
-categories: jekyll update
+categories: web-design mobile-design
 permalink: /content-charging/
 ---
 ### What 
