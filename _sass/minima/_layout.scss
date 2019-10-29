@@ -17,7 +17,7 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
-  color: black;
+  color: $brand-color;
 
   @include media-query($on-palm) {
     padding-right: 45px;
@@ -75,7 +75,7 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $brand-color;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -252,8 +252,14 @@
 
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2.625);
+
+
   }
+
+
 }
+
+.post-header > .post-title { font-size: 22pt; }
 
 .post-content {
   margin-bottom: $spacing-unit;
@@ -281,6 +287,7 @@
       @include relative-font-size(1.25);
     }
   }
+  h3 {font-size: 16pt;}
 }
 
 .social-media-list {

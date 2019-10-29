@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Cross-site content charging"
+title:  "Cross-site content pay per view"
 categories: web-design mobile-design
 permalink: /content-charging/
 ---
 ### What 
 
-A payment system that works across different sites 
-and devices, enabling site owners to recover micro payments 
+A micro-payment system that works across different sites 
+and devices, enabling site users to make payments for  
 for access to site content on a per page basis.
 
 A Web and mobile solution was required that was exceptionally easy to use.

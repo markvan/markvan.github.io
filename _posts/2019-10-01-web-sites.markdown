@@ -6,29 +6,29 @@ permalink: /web-sites/
 ---
 ### Introduction 
 
-I don't claim to be a web site designer at the graphic art level but I have 
-occasionally constructed web sites and spash pages for clients and for myself.
+Occasional work in constructing web sites and splash pages for clients and for myself.
 
-Client work has been both from scratch and the redesign of existing sites.
+Site construction from scratch and redesign of existing sites.
 
 ### Boats Ibiza
 
 Redesign of a legacy web site for the client, collating information scattered
-across the legacy site, making it logically accessible  via collation and 
-well-organised navigation.
+across the legacy site, ordering the collated information  and making it
+accessible sensible user-friendly navigation.
 
 ![Boats Ibiza splash page](/assets/images/web-sites/boats-ibiza.png)
 
 ### Gradient Assessment
 
-A quick design of a web site to support marketing and sales for the
+A quick design of a web site to support institutional marketing for the
 [electronic assessment system](/mark-it-quickly).
 
 ![Gradient Assessment splash page](/assets/images/web-sites/gradient.png)
 
 ### Mark It Quickly splash page
 
-A splash page for the [electronic assessment system](/mark-it-quickly) itself.
+A splash page for the [electronic assessment system](/mark-it-quickly) in
+SaaS form.
 
 ![Gradient Assessment splash page](/assets/images/web-sites/miqly-splash%20page.png)
 
