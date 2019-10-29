@@ -4,32 +4,33 @@ title:  "Cross-site content pay per view facilities"
 categories: web-design mobile-design
 permalink: /content-charging/
 ---
-### What 
+### Project description 
 
-A micro-payment system that works across different sites 
+Product design for a micro-payment system that works across different sites 
 and devices, enabling site users to make payments for  
 for access to site content on a per page basis.
 
-A Web and mobile solution was required that was exceptionally easy to use.
-
-
 ### Design criteria
 
-UX design concentrated on several different aspects of the solution
-* Extreme ease of use.
-* A common Web and mobile solution that would be accessed and used in the same way
-for payments and wallet top-up.
-* Keeping the user informed as to what was happening at all stages, to 
-remove any fear about payments getting out of hand.
+A Web and mobile solution was required that was extremely easy to use.
+
+Design criteria also included:
+* An almost non-existent learning curve.
+* A common Web and mobile solution for payments and wallet top-up that would be 
+ used in the same way regardless of what device was being used.
+* Keeping the user informed as to what was happening at all stages; 
+ this to remove any fear about payments getting out of hand and loss of wallet funds.
 
 Various small improvements complicated the design, for example:
-* Particularly, small payments (up to a user definable limit) should be 
-automatic.
-* Use of a site should be free after a given total of payments is
-reached in a single day.
+* Small payments (up to a user definable limit) should be automatic.
+* Users should be informed when making small payments.
+* Use of a site should be free for a given period after a certain total of payments is
+reached, progress to that total and the period of free use should be made clear.
 * Re-visits to the same page should be free.
 
-### Screenshots (web version)
+
+
+### The product (web version)
 
 An icon appears on web pages to get to all slide-out functionality
 
@@ -57,8 +58,11 @@ Assocated web site transactions page
 ![sample](/assets/images/agate/agate-transaction-record.png)
 
 
-
 ### Screenshots (mobile version)
+
+\[TBA\]
+
+### Design process
 
 \[TBA\]
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4ebb81c6-ef1d-4527-b15c-6ecb6464a416" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +19,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="705">
-                <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+              <first_editor relative-caret-position="479">
+                <caret line="64" selection-start-line="64" selection-end-line="66" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2019-10-20-electronic-assessment-system.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="480">
+                <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
               </first_editor>
               <second_editor />
             </state>
@@ -48,15 +62,6 @@
                 <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -118,7 +123,6 @@
         <option value="$PROJECT_DIR$/about.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-10-27-content-microcharging.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-10-26-electronic-assessment-system.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-10-27-web-sites.markdown" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/_config.yml" />
@@ -129,10 +133,11 @@
         <option value="$PROJECT_DIR$/_sass/minima.scss" />
         <option value="$PROJECT_DIR$/_posts/2019-10-01-web-sites.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-10-10-digital-rights-management.markdown" />
-        <option value="$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-10-04-library-systems.markdown" />
         <option value="$PROJECT_DIR$/_posts/2019-10-02-miscellaeous.markdown" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown" />
+        <option value="$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown" />
       </list>
     </option>
   </component>
@@ -251,12 +256,12 @@
       <updated>1572166602829</updated>
       <workItem from="1572166604335" duration="30269000" />
       <workItem from="1572340917897" duration="6165000" />
-      <workItem from="1572374896720" duration="978000" />
+      <workItem from="1572374896720" duration="2545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37412000" />
+    <option name="totallyTimeSpent" value="38979000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="94" y="163" width="1249" height="754" extended-state="0" />
@@ -451,16 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="27" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -541,16 +536,6 @@
     <entry file="file://$PROJECT_DIR$/assets/images/agate/agate-charge-panel.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="705">
-            <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2019-10-02-miscellaeous.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -589,8 +574,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="105" lean-forward="true" selection-start-line="5" selection-start-column="105" selection-end-line="5" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-21-content-microcharging.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="479">
+            <caret line="64" selection-start-line="64" selection-end-line="66" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-10-20-electronic-assessment-system.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="480">
+            <caret line="60" column="34" selection-start-line="60" selection-start-column="34" selection-end-line="60" selection-end-column="34" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
