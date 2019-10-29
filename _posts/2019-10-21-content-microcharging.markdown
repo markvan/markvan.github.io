@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cross-site content pay per view"
+title:  "Cross-site content pay per view facilities"
 categories: web-design mobile-design
 permalink: /content-charging/
 ---
@@ -13,7 +13,7 @@ for access to site content on a per page basis.
 A Web and mobile solution was required that was exceptionally easy to use.
 
 
-### Design process
+### Design criteria
 
 UX design concentrated on several different aspects of the solution
 * Extreme ease of use.
@@ -29,11 +29,32 @@ automatic.
 reached in a single day.
 * Re-visits to the same page should be free.
 
-### Notable aspects
+### Screenshots (web version)
 
-blah
-![sample image](/assets/images/sample.png)
+An icon appears on web pages to get to all slide-out functionality
+
+![sample](/assets/images/agate/agate-icon-on-web-page.png)
+
+Main panel
+
+![sample](/assets/images/agate/agate-icon-on-web-page.png)
+
+Settings panel
+
+![sample](/assets/images/agate/agate-settings-panel.png)
+
+Associated web site overview page
+
+![sample](/assets/images/agate/agate-overview.png)
+
+Assocated web site transactions page
 
 
-### Deliverables
+![sample](/assets/images/agate/agate-transaction-record.png)
+
+
+
+### Screenshots (mobile version)
+
+\[TBA\]
 

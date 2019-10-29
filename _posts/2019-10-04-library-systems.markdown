@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Service for centralised purchase of digital resources"
+title:  "Library systems"
 categories: web-design 
 permalink: /centralised-purchase-service/
 ---

@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Library systems"
+title:  "Centralised purchasing service and digital rights management"
 categories: web-design 
 permalink: /library-systems/
 ---
 ### Introduction 
 
-A service for the purchase of journal subscriptions (individually and in packages) 
+Service design for a service for centralised / aggregated purchase of journal subscriptions (individually and in packages) 
 by English higher education institutions, while
 dealing with complex contractual and digital rights and licencing issues.
 
