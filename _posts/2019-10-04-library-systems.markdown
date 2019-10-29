@@ -25,11 +25,11 @@ Two sets of recommendations were made:
 * The big win was simple, to bring Copac out of the dark ages by adding
  cover images to catalogue entries, thereby enlivening a very dry academic resource
  and encouraging further UI design improvements.
- . \[TBA screenshots from our prototype.\]
+ . \[TBA screenshots from Copac improvements prototype.\]
  While Copac is now deprecated, the same feature can be seen in its replacement.
- ![Catalogue entry](/assets/images/library/top-level-result.png)
  ![Drill-down catalog entry](/assets/images/library/drill-down-result.png)
 
+ ![Catalogue entry](/assets/images/library/top-level-result.png)
 
 ### Personalised search engine
 
