@@ -6,7 +6,7 @@ permalink: /miscellaneous/
 ---
 ### Introduction 
 
-Building up a few interesting projects, to be completed
+\[Building up a few interesting projects, to be completed.\]
 
 ### Augmented reality system
 
@@ -16,12 +16,14 @@ doop was an early augmented reality app for the iPhone.
 ![doop logo](/assets/images/doop/doop.lpgo.jpg)
 
 
-When used at a conference (e.g. ALT at Manchester), conference attendees would use doop 
+When used at a conference (ALT at Manchester), conference attendees would use doop 
 to rate 
 the quality of locations (pubs and bars) by scanning a QR code and entering a rating.
 
-Attendees could then see locations, distances to the location and average ratings displayed on their iPhones as they scanned round
-a neighbourhood. The system thus helped in making choices about where to relax and the direction
+Conference attendees could then see locations, distances to the location and average rating displayed on their iPhones as they scanned round
+a neighbourhood. This information would be superimposed on video directly from the iPhone's camera.
+
+The system thus helped in making choices about where to relax and the direction
 to go in to get there.
 
 \[TBA screenshots when I can get them.\]

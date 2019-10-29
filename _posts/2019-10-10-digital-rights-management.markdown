@@ -7,12 +7,12 @@ permalink: /library-systems/
 ### Product description 
 
 Service design for a service for centralised / aggregated purchase of journal subscriptions (individually and in packages) 
-by English higher education institutions, while
+by English Higher Education institutions, while
 dealing with complex contractual and digital rights and licencing issues.
 
 #### Motivation for a centralised service
 
-The Higher education Funding Council for England (HEFCE), spends circa 
+The Higher Education Funding Council for England (HEFCE), spends circa 
 £25M per annum on 
 print and electronic scholarly journal subscriptions for universities. 
 Traditionally individual institutions had negotiated with publishers and journal-package
@@ -38,8 +38,8 @@ we believe them to be in the multi-million pound range.
 ### Product
 
 The product was a service design that was passed, in a waterfall fashion, to 
-the implementors. This was a result of how the larger project was organised
-and not the choice of me as a designer.
+the implementors. This waterfall process was a result of how the larger project was organised
+and not a personal choice.
 
 Some design artefacts and one screenshot of the production service appear below.
 
@@ -55,13 +55,13 @@ Some design artefacts and one screenshot of the production service appear below.
 
 ![Data model](/assets/images/kbp/data-model.png)
 
-#### Sample screenshot from of the production system
+#### Sample screenshot from the implemented system
 
 ![Entity types](/assets/images/kbp/kbp-screenshot.png)
 
 ### Service design process
 
-I was part of a two person team that designed the centalised purchasing service by:
+I was part of a two person team that designed the service by:
 
 * Generating user personas for purchasing and allied library staff.
 * Gathering requirements gathering from subject matter experts in the UK and 
@@ -71,8 +71,8 @@ I was part of a two person team that designed the centalised purchasing service 
 * Describing the variant 'As Is' purchasing processes.
 * Designing service functionality and touchpoints.
 * Designing service-based workflows.
-* Constructing paper prototypes to validate the data models, touchpoints and workflows.
-* Validating the paper prototypes (and further co-designing / modifying them) 
+* Constructing paper prototypes to use to validate the data models, touchpoints and workflows.
+* Validating the design expressed in the paper prototypes (and further co-designing / modifying them) 
  with users from multiple libraries.
 
 At the end of this process we handed off the service design to the service implementors.

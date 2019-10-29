@@ -7,7 +7,7 @@ permalink: /mark-it-quickly/
 ### Project description 
 
 Design of a SaaS product (including UX and UI design) for online tests and examinations for 
-high school and university pupils. This provides for end-to-end testing from setting questions,
+high school and university students. This provides for end-to-end testing from setting questions,
 distribution, student answering, marking and mark analysis and distribution.
 
 ### Design criteria
