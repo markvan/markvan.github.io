@@ -4,13 +4,13 @@ title:  "Centralised purchasing service and digital rights management"
 categories: web-design 
 permalink: /library-systems/
 ---
-### Introduction 
+### Product description 
 
 Service design for a service for centralised / aggregated purchase of journal subscriptions (individually and in packages) 
 by English higher education institutions, while
 dealing with complex contractual and digital rights and licencing issues.
 
-### Why
+#### Motivation for a centralised service
 
 The Higher education Funding Council for England (HEFCE), spends circa 
 £25M per annum on 
@@ -25,30 +25,23 @@ different purchasing processes with variant staffing, that there was
 considerable complexity in digital rights for journals and journals sold
 as packages, and in legal terms in contracts.
 
-### Service design process
+#### Outcomes
 
-I was part of a two person team that designed the centalised purchasing service by:
+After implementation, the service is now in production use. 
 
-* Generating user personas for purchasing and allied library staff.
-* Gathering requirements gathering from subject matter experts in the UK and authors of a 
-similar system in the USA.
-* Holding workshops with library staff from different services.
-* Performing data modelling.
-* Describing the variant 'As Is' purchasing processes.
-* Designing service functionality and touchpoints.
-* Designing service-based workflows.
-* Constructing paper prototypes to validate the data models, touchpoints and workflows.
-* Validating the paper prototypes (and further co-designing / modifying them) with 
-users from multiple libraries.
+While figures as to savings from centralised purchasing are not pubicly available, 
+we believe them to be in the multi-million pound range.
 
-At the end of this process we handed off the service design to the service implementors.
 
-The service is now in production use. 
+### Design criteria
 
-While figures as to savings from
-centralised purchasing are not pubicly available, we believe them to be in the multi-million pound range.
+### Product
 
-### Sample design artefacts
+The product was a service design that was passed, in a waterfall fashion, to 
+the implementors. This was a result of how the larger project was organised
+and not the choice of me as a designer.
+
+Some design artefacts and one screenshot of the production service appear below.
 
 #### Sample persona
 
@@ -65,6 +58,26 @@ centralised purchasing are not pubicly available, we believe them to be in the m
 #### Sample screenshot from of the production system
 
 ![Entity types](/assets/images/kbp/kbp-screenshot.png)
+
+### Service design process
+
+I was part of a two person team that designed the centalised purchasing service by:
+
+* Generating user personas for purchasing and allied library staff.
+* Gathering requirements gathering from subject matter experts in the UK and 
+ authors of a similar system in the USA.
+* Holding workshops with library staff from different services.
+* Performing data modelling.
+* Describing the variant 'As Is' purchasing processes.
+* Designing service functionality and touchpoints.
+* Designing service-based workflows.
+* Constructing paper prototypes to validate the data models, touchpoints and workflows.
+* Validating the paper prototypes (and further co-designing / modifying them) 
+ with users from multiple libraries.
+
+At the end of this process we handed off the service design to the service implementors.
+
+
 
 
 
