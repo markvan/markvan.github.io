@@ -37,11 +37,15 @@ An icon appears on web pages to get to all slide-out functionality
 
 Main panel
 
-![sample](/assets/images/agate/agate-icon-on-web-page.png)
+![sample](/assets/images/agate/agate-on-web-page.png)
 
 Settings panel
 
 ![sample](/assets/images/agate/agate-settings-panel.png)
+
+Part of the lightweight set-up journey
+
+![sample](/assets/images/agate/agate-charge-panel.png)
 
 Associated web site overview page
 
