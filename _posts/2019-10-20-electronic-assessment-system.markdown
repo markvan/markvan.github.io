@@ -15,7 +15,7 @@ distribution, student answering, marking and mark analysis and distribution.
 Electronic assessment is a notoriously difficult area that is, for competitor products,
 plagued by usability problems.
 
-Design criteria:
+The major design criterion was:
 * The primary design criterion was to produce a system with exceptional 
  ease-of-use for both teachers and students. 
  
@@ -30,21 +30,33 @@ In practice this meant:
  easy review and modification of marks and feedback for students.
 * \[TBA\]
 
-#### The product
+The system needed to work in laptop/desktop browsers and in tablet browsers.
+
+### The product
+
+Only a few of the wide range of pages are shown below, demonstrations can be given
+with suitable lead time.
 
 #### Product scope and assessment flow 
 
-The system works in laptop/desktop and tablet browsers.
+
 ![Overall SaaS flow](/assets/images/miqly/overall-miqly-flow.png)
 
-#### Selected screenshots
-
+#### The marking subsystem
 
 ![Overall SaaS flow](/assets/images/miqly/miqly-marker.png)
 
+#### Overview while marking
+
+This view also enables navigation to a particular student answer with a single click.
+ 
 ![Overall SaaS flow](/assets/images/miqly/overview.png)
 
+#### Descriptive statistics for the results for a test
+
 ![Overall SaaS flow](/assets/images/miqly/cohort-overview.png)
+
+#### Individual student results after marking
 
 ![Overall SaaS flow](/assets/images/miqly/results-view.png)
 
@@ -57,7 +69,6 @@ Included \[still TBA\]:
 * Task-based descriptions of the assessment lifecycle and processes. 
 * Construction of prototypes and evaluation with users and subject matter experts, 
  leading to redesign where needed, repeating this cycle.
-* Evaluated use in production settings, l
- eading to redesign where needed, repeating this cycle.
+* Evaluated use in production settings,
+ leading to redesign where needed, repeating this cycle.
 
-\[TBA\]

@@ -6,7 +6,7 @@ permalink: /miscellaneous/
 ---
 ### Introduction 
 
-Building up a few itneresting projects, to be completed
+Building up a few interesting projects, to be completed
 
 ### Augmented reality system
 

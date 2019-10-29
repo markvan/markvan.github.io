@@ -7,8 +7,8 @@ permalink: /content-charging/
 ### Project description 
 
 Product design for a micro-payment system that works across different sites 
-and devices, enabling site users to make payments for  
-for access to site content on a per page basis.
+and devices, enabling users to make payments for 
+access to content on a per page basis, regardless of site being accessed.
 
 ### Design criteria
 
@@ -19,7 +19,7 @@ Design criteria also included:
 * A common Web and mobile solution for payments and wallet top-up that would be 
  used in the same way regardless of what device was being used.
 * Keeping the user informed as to what was happening at all stages; 
- this to remove any fear about payments getting out of hand and loss of wallet funds.
+ this to remove any fear about payments getting out of hand and loss pre-paid funds.
 
 Various small improvements complicated the design, for example:
 * Small payments (up to a user definable limit) should be automatic.
@@ -32,15 +32,15 @@ reached, progress to that total and the period of free use should be made clear.
 
 ### The product (web version)
 
-An icon appears on web pages to get to all slide-out functionality
+An icon appears on web pages to access slide-out panels
 
 ![sample](/assets/images/agate/agate-icon-on-web-page.png)
 
-Main panel
+Main slide-out 
 
 ![sample](/assets/images/agate/agate-on-web-page.png)
 
-Settings panel
+Settings slide-out  (the other side of the panel above)
 
 ![sample](/assets/images/agate/agate-settings-panel.png)
 
