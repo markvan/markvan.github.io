@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cross-site content pay per view facilities"
+title:  "Cross-site content pay-per-view"
 categories: web-design mobile-design
 permalink: /content-charging/
 ---
@@ -8,7 +8,7 @@ permalink: /content-charging/
 
 Product design for a micro-payment system that works across different sites 
 and devices, enabling users to make payments for 
-access to content on a per page basis, regardless of site being accessed.
+access to content on a per-page basis, regardless of the site being accessed.
 
 ### Design criteria
 
@@ -66,3 +66,4 @@ Assocated web site transactions page
 
 \[TBA\]
 
+[back](/)

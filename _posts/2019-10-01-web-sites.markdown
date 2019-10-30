@@ -32,6 +32,8 @@ SaaS form.
 
 ![Gradient Assessment splash page](/assets/images/web-sites/miqly-splash%20page.png)
 
+[back](/)
+
 
 
 
