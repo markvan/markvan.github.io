@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "UX and Product Design"
+title: "Product and UX Design"
 author: Mark van Harmelen
 email1: mark@hedtek.com
 email2: markvanharmelen@gmail.com
