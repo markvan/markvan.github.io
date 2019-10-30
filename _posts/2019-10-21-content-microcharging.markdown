@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cross-site content pay-per-view"
+title:  "Cross-site content pay-per-view system"
 categories: web-design mobile-design
 permalink: /content-charging/
 ---

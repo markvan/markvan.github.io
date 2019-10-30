@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Centralised purchasing service and digital rights management"
+title:  "Centralised purchasing service and digital rights management service"
 categories: web-design 
 permalink: /library-systems/
 ---

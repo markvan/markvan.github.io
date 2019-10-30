@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Miscellaneous"
+title:  "Miscellaneous systems"
 categories: web-design 
 permalink: /miscellaneous/
 ---
