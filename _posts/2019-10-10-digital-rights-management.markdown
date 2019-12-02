@@ -13,7 +13,7 @@ dealing with complex contractual and digital rights and licencing issues.
 #### Motivation for a centralised service
 
 The Higher Education Funding Council for England (HEFCE), spends circa 
-£25M per annum on 
+£135M per annum on 
 print and electronic scholarly journal subscriptions for universities. 
 Traditionally individual institutions had negotiated with publishers and journal-package
 resellers individually. However HEFCE wished to centralised purchasing 
@@ -22,7 +22,7 @@ in purchasing mechanisms via common facilities.
 
 The difficulties here were that individual university libraries used 
 different purchasing processes with variant staffing, that there was
-considerable complexity in digital rights for journals and journals sold
+considerable complexity in distribution-related digital rights for journals and journals sold
 as packages, and in legal terms in contracts.
 
 #### Outcomes
@@ -61,7 +61,7 @@ Some design artefacts and one screenshot of the production service appear below.
 
 ### Service design process
 
-I was part of a two person team that designed the service by:
+I was part of and led a two person team that designed the service by:
 
 * Generating user personas for purchasing and allied library staff.
 * Gathering requirements gathering from subject matter experts in the UK and 
