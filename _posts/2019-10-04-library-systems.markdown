@@ -53,7 +53,10 @@ While Copac is now deprecated, the same feature can be seen in its replacement.
 
 ### Product: Library UX
 
-A [report on library UX](http://hedtek.com/wp-content/uploads/2012/09/libUX-in-HE-Libraries.pdf), including an ethnographic survey of library users by a colleague.
+A [report on library UX](http://hedtek.com/wp-content/uploads/2012/09/libUX-in-HE-Libraries.pdf), including an ethnographic survey of library users by David Randall.
+
+![sample](/assets/images/library/libux-cover.png)
+
 
 
 [back](/)
